@@ -17,7 +17,7 @@ function Footer() {
             </Link>
             <Link href="/privacy" className="text-gray-400 hover:text-gray-300 transition-colors">
               Privacy
-            </Link>
+            </Link> 
             <Link href="/terms" className="text-gray-400 hover:text-gray-300 transition-colors">
               Terms
             </Link>
